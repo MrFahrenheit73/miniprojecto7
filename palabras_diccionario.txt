@@ -1,0 +1,60 @@
+algoritmo|Secuencia finita y no ambigua de pasos computables para resolver un problema.
+almacenamiento|Dispositivo o medio físico o virtual destinado a conservar datos e información.
+amortizado|Análisis del costo temporal promedio de una operación a lo largo de una secuencia.
+ancho|Dimensión transversal o número de nodos en el nivel más poblado de un árbol.
+apilamiento|Operación de inserción de un elemento en una estructura de pila.
+arbol|Estructura de datos jerárquica y no lineal compuesta de nodos enlazados.
+arquitectura|Diseño conceptual y estructura operacional fundamental de un sistema informático.
+arreglo|Colección contigua y homogénea de elementos accesibles mediante un índice.
+asignacion|Asociación o almacenamiento de un valor concreto en una variable.
+autenticacion|Verificación rigurosa de la identidad de un usuario, dispositivo o entidad.
+automata|Modelo matemático de un sistema que transita entre estados ante entradas.
+autonomia|Capacidad de un sistema o agente para operar sin intervención externa directa.
+auto|Vehículo automotor de transporte o prefijo que denota acción por sí mismo.
+aurora|Luz tenue o fenómeno luminoso que precede inmediatamente a la salida del sol.
+balanceo|Reorganización de un árbol de búsqueda para garantizar altura mínima logarítmica.
+binario|Sistema numérico o estructura lógica donde cada elemento tiene como máximo dos opciones.
+bit|Dígito binario elemental que representa la unidad atómica de información (0 o 1).
+bloque|Conjunto de instrucciones agrupadas y delimitadas sintácticamente.
+booleano|Tipo de dato primitivo que únicamente admite los valores verdadero o falso.
+bucle|Estructura de control iterativa que repite código mientras se cumpla una condición.
+busqueda|Algoritmo para determinar la existencia y ubicación de un dato en una colección.
+byte|Unidad básica de memoria direccionable compuesta por ocho bits.
+cache|Memoria de acceso ultrarrápido que almacena datos de lectura recurrente.
+cadena|Secuencia contigua e inmutable de caracteres alfanuméricos.
+clase|Plantilla en OOP que encapsula atributos y comportamientos de un tipo de objeto.
+clave|Identificador unívoco empleado para indexar o mapear un registro de información.
+cliente|Software o dispositivo que formula solicitudes de servicio a un servidor.
+cola|Estructura de datos lineal regida por el protocolo FIFO (primero en entrar, primero en salir).
+compilador|Traductor de software que convierte código fuente en lenguaje ejecutable de máquina.
+concurrencia|Capacidad de un entorno operativo para coordinar múltiples flujos de ejecución.
+constante|Identificador cuyo valor asignado permanece inalterable durante toda la ejecución.
+constructor|Subrutina especial de una clase encargada de inicializar nuevas instancias.
+cursor|Puntero indicador de la posición actual de lectura en un flujo o base de datos.
+depuracion|Metodología sistemática para encontrar y remediar fallas en el software.
+diccionario|Colección asociativa compuesta de pares de clave y valor.
+direccion|Identificador numérico de una celda específica en la memoria principal.
+encapsulamiento|Principio de diseño que oculta el estado interno y detalles de una clase.
+encriptacion|Cifrado criptográfico de información legible para volverla ininteligible.
+enlace|Apuntador que relaciona un nodo de una estructura con otro contiguo.
+escaner|Analizador que convierte un flujo de caracteres en una serie de fichas léxicas.
+excepcion|Condición anómala generada durante la ejecución que altera el flujo del programa.
+funcion|Bloque reutilizable de código parametrizado que ejecuta una tarea concreta.
+grafo|Conjunto no jerárquico de vértices interconectados mediante aristas.
+hash|Función algorítmica que proyecta datos arbitrarios en valores numéricos de tamaño fijo.
+herencia|Mecanismo OOP para derivar propiedades de una clase madre a clases hijas.
+hilera|Secuencia ordenada o hilo ligero de ejecución dentro de un proceso concurrente.
+hoja|Nodo terminal de un árbol que no posee descendientes.
+indice|Estructura auxiliar que acelera drásticamente la búsqueda de registros.
+inorden|Recorrido DFS que procesa el subárbol izquierdo, la raíz y el subárbol derecho.
+insercion|Acción de añadir un elemento nuevo en una estructura de datos.
+instancia|Manifestación física y viva en memoria de la estructura definida por una clase.
+interfaz|Contrato que define los métodos públicos que una clase concreta debe implementar.
+iterador|Objeto que facilita la navegación secuencial a través de los elementos de una colección.
+memoria|Subsistema del computador destinado a retener instrucciones y datos procesables.
+metodo|Función subordinada a una clase que opera sobre el estado de sus objetos.
+nodo|Elemento básico de una estructura enlazada que contiene datos y punteros.
+objeto|Entidad de software en OOP dotada de identidad, estado y comportamiento.
+pila|Estructura de datos lineal gobernada por la convención LIFO (último en entrar, primero en salir).
+raiz|Nodo primigenio y superior de un árbol jerárquico del cual descienden todos los demás.
+recursividad|Técnica de diseño algorítmico donde un método se autoinvoca con datos reducidos.
